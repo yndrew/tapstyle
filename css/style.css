@@ -11116,7 +11116,7 @@ a.animated-button:before {
 .footer-paiment .Icon {
   min-width: 20px;
   min-height: 20px;
-  width: 20px;
+  width: 20px; // ff fix
   opacity: 0.5;
 }
 
